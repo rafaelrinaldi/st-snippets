@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[var ${1:array} = [$2];]]></content>
+
+    <description>New Array</description>
+
+    <tabTrigger>arr</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

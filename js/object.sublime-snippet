@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[var ${1:object} = {$2};]]></content>
+
+    <description>New Object</description>
+
+    <tabTrigger>obj</tabTrigger>
+
+    <scope>source.js</scope>
+</snippet>
