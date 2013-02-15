@@ -1,0 +1,9 @@
+<snippet>
+
+	<content><![CDATA[opacity: ${1:1};]]></content>
+	
+	<tabTrigger>opacity</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>

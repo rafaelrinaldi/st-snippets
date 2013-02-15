@@ -1,0 +1,12 @@
+<snippet>
+
+	<content><![CDATA[-webkit-transition: ${1:all} ${2:1}s ${3:ease};
+-moz-transition: ${1:all} ${2:1}s ${3:ease};
+-o-transition: ${1:all} ${2:1}s ${3:ease};
+transition: ${1:all} ${2:1}s ${3:ease};]]></content>
+	
+	<tabTrigger>transition</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+
+	<content><![CDATA[background-color: transparent;
+background-color: rgba(${1:0}, ${2:0}, ${3:0}, ${4:1});]]></content>
+	
+	<tabTrigger>rgba</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>

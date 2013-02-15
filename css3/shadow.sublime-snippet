@@ -1,0 +1,10 @@
+<snippet>
+
+	<content><![CDATA[-webkit-box-shadow: ${1:0}px ${2:0}px ${3:0}px ${4:0}px ${5:#FFFFFF};
+box-shadow: ${1:0}px ${2:0}px ${3:0}px ${4:0}px ${5:#FFFFFF};]]></content>
+	
+	<tabTrigger>shadow</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>
