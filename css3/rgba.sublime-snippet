@@ -1,7 +1,6 @@
 <snippet>
 
-	<content><![CDATA[background-color: transparent;
-background-color: rgba(${1:0}, ${2:0}, ${3:0}, ${4:1});]]></content>
+	<content><![CDATA[rgba(${1:red}, ${2:green}, ${3:blue}, ${4:alpha});]]></content>
 	
 	<tabTrigger>rgba</tabTrigger>
 	
