@@ -1,0 +1,13 @@
+<snippet>
+
+	<content><![CDATA[-webkit-transform: translate(${1:tx}${2:, ${3:ty}});
+-moz-transform: translate(${1:tx}${2:, ${3:ty}});
+-ms-transform: translate(${1:tx}${2:, ${3:ty}});
+-o-transform: translate(${1:tx}${2:, ${3:ty}});
+transform: translate(${1:tx}${2:, ${3:ty}});]]></content>
+	
+	<tabTrigger>translate</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>

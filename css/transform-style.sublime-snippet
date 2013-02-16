@@ -1,0 +1,12 @@
+<snippet>
+
+	<content><![CDATA[-webkit-transform-style: ${1:preserve-3d};
+-moz-transform-style: ${1:preserve-3d};
+-ms-transform-style: ${1:preserve-3d};
+transform-style: ${1:preserve-3d};]]></content>
+	
+	<tabTrigger>transform-style</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>

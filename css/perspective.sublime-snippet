@@ -1,0 +1,12 @@
+<snippet>
+
+	<content><![CDATA[-webkit-perspective: ${1:0}px;
+-moz-perspective: ${1:0}px;
+-ms-perspective: ${1:0}px;
+perspective: ${1:0}px;]]></content>
+	
+	<tabTrigger>perspective</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>

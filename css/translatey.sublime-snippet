@@ -1,0 +1,13 @@
+<snippet>
+
+	<content><![CDATA[-webkit-transform: translateY(${1:ty});
+-moz-transform: translateY(${1:ty});
+-ms-transform: translateY(${1:ty});
+-o-transform: translateY(${1:ty});
+transform: translateY(${1:ty});]]></content>
+	
+	<tabTrigger>translatey</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+
+	<content><![CDATA[-webkit-transform: skewY(${1:angle});
+-moz-transform: skewY(${1:angle});
+-ms-transform: skewY(${1:angle});
+-o-transform: skewY(${1:angle});
+transform: skewY(${1:angle});]]></content>
+	
+	<tabTrigger>skewy</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>

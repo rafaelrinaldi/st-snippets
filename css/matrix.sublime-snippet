@@ -1,0 +1,13 @@
+<snippet>
+
+	<content><![CDATA[-webkit-transform: matrix(${1:a}, ${2:c}, ${3:b}, ${4:d}, ${5:tx}, ${6:ty});
+-moz-transform: matrix(${1:a}, ${2:c}, ${3:b}, ${4:d}, ${5:tx}, ${6:ty});
+-ms-transform: matrix(${1:a}, ${2:c}, ${3:b}, ${4:d}, ${5:tx}, ${6:ty});
+-o-transform: matrix(${1:a}, ${2:c}, ${3:b}, ${4:d}, ${5:tx}, ${6:ty});
+transform: matrix(${1:a}, ${2:c}, ${3:b}, ${4:d}, ${5:tx}, ${6:ty});]]></content>
+	
+	<tabTrigger>matrix</tabTrigger>
+	
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+	
+</snippet>
