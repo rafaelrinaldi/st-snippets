@@ -1,0 +1,24 @@
+<snippet>
+
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en-US">
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width">
+
+        <title>$1</title>
+    </head>
+
+    <body>
+        $2
+    </body>
+
+</html>]]></content>
+
+    <tabTrigger>html5</tabTrigger>
+    
+    <scope>text.html</scope>
+    
+</snippet>
