@@ -1,0 +1,13 @@
+<snippet>
+
+	<content><![CDATA[override ${1:public} function set ${2:name}( ${3:value} : ${4:Object} ) : void {
+	$5
+}]]></content>
+
+	<description>override setter</description>
+
+	<tabTrigger>over</tabTrigger>
+	
+	<scope>source.actionscript.2</scope>
+	
+</snippet>

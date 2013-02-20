@@ -1,0 +1,13 @@
+<snippet>
+
+	<content><![CDATA[${1:public} function ${2:name}($3) : ${4:void} {
+	$5
+}]]></content>
+
+	<description>function</description>
+
+	<tabTrigger>fn</tabTrigger>
+	
+	<scope>source.actionscript.2</scope>
+	
+</snippet>

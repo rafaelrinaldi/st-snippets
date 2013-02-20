@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[${1:public} function set ${2:name}( value : ${3:Object} ) : void {
+	$4
+}]]></content>
+
+	<tabTrigger>setter</tabTrigger>
+	
+	<scope>source.actionscript.2</scope>
+	
+</snippet>

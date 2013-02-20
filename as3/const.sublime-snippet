@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[${1:public} const ${2:name} : ${3:Object} = ${4:value};]]></content>
+
+	<description>constant</description>
+
+	<tabTrigger>con</tabTrigger>
+	
+	<scope>source.actionscript.2</scope>
+	
+</snippet>

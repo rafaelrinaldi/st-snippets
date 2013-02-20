@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[${1:public} function get ${2:name}() : ${3:Object} {
+	return $4;
+}]]></content>
+
+	<tabTrigger>getter</tabTrigger>
+	
+	<scope>source.actionscript.2</scope>
+	
+</snippet>

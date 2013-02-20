@@ -1,0 +1,24 @@
+<snippet>
+
+	<content><![CDATA[/**
+ *
+ * ${1:ClassName}
+ *
+ * @author $TM_FULLNAME
+ *
+ */
+public class ${1:ClassName}${2: extends ${3:Object}}
+{
+	public function ${1:ClassName}($4)
+	{
+		$5
+	}		
+}]]></content>
+
+	<description>new class</description>
+
+	<tabTrigger>class</tabTrigger>
+	
+	<scope>source.actionscript.2</scope>
+	
+</snippet>

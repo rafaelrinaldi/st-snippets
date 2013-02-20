@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[Math.PI]]></content>
+
+	<description>𝛑</description>
+
+	<tabTrigger>pi</tabTrigger>
+	
+	<scope>source.actionscript.2</scope>
+	
+</snippet>

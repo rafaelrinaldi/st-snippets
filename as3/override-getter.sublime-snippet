@@ -1,0 +1,13 @@
+<snippet>
+
+	<content><![CDATA[override ${1:public} function get ${2:name}() : ${3:Object} {
+	$4
+}]]></content>
+
+	<description>override getter</description>
+
+	<tabTrigger>over</tabTrigger>
+	
+	<scope>source.actionscript.2</scope>
+	
+</snippet>
