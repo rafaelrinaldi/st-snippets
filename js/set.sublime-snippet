@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[function set${1:Name}( ${2:value} ) {
+    $3
+}]]></content>
+
+    <description>setter</description>
+
+    <tabTrigger>fn</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

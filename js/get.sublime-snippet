@@ -1,9 +1,9 @@
 <snippet>
-    <content><![CDATA[function ${1:name}() {
+    <content><![CDATA[function get${1:Name}() {
     $2
 }]]></content>
 
-    <description>regular function</description>
+    <description>getter</description>
 
     <tabTrigger>fn</tabTrigger>
     

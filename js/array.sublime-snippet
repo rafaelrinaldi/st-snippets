@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[var ${1:array} = [$2];]]></content>
 
-    <description>New Array</description>
+    <description>new array</description>
 
     <tabTrigger>arr</tabTrigger>
     
