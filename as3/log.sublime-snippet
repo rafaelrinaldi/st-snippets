@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[trace('$1');]]></content>
+
+	<description>trace() wrapper</description>
+
+	<tabTrigger>log</tabTrigger>
+	
+	<scope>source.actionscript.2</scope>
+	
+</snippet>
