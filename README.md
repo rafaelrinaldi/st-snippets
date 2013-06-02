@@ -15,8 +15,10 @@ The snippets are updated quite often. To make sure you're running the latest ver
 To remove the snippets from your Sublime Text folder, run:
 
 	rm -rf ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/st-snippets
+
 	
 > If you're running Sublime Text 3, make sure you change the destination path of the commands above.
+
 
 ## Snippets
 
