@@ -25,6 +25,6 @@ To remove the snippets from your Sublime Text folder, run:
 There are snippets available for the following languages:
 
 * ActionScript 3
-* CSS3 <small>(There are snippets for all the new properties of CSS3, already implementing vendor prefixes. [css3please.com](http://css3please.com) was used as a reference.)</small>
+* CSS3 <sup>(There are snippets for all the new properties of CSS3, already implementing vendor prefixes. [css3please.com](http://css3please.com) was used as a reference.)</sup>
 * HTML
-* JavaScript <small>(Snippets for working with AMD modules, wrappers, etc.)</small>
+* JavaScript <sup>(Snippets for working with AMD modules, wrappers, etc.)</sup>
