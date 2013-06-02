@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[require(${2:'$1'})]]></content>
+
+    <description>amd require</description>
+
+    <tabTrigger>req</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

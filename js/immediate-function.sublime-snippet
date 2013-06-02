@@ -5,7 +5,7 @@
 
 	<description>immediate function</description>
 
-    <tabTrigger>fn</tabTrigger>
+    <tabTrigger>ifn</tabTrigger>
     
     <scope>source.js</scope>
 </snippet>

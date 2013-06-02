@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-console.log('$0');
+console.log(${2:'$1'});
 ]]></content>
 
-	<description>console.log() wrapper</description>
+	<description>console.log()</description>
 
     <tabTrigger>log</tabTrigger>
     

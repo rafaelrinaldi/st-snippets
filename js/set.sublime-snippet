@@ -3,9 +3,9 @@
     $3
 }]]></content>
 
-    <description>setter</description>
+    <description>function setter</description>
 
-    <tabTrigger>fn</tabTrigger>
+    <tabTrigger>set</tabTrigger>
     
     <scope>source.js</scope>
 </snippet>

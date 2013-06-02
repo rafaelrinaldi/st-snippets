@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[({
+    ${3:${1:key}: '${2:value}'}
+})]]></content>
+
+    <description>object literal</description>
+
+    <tabTrigger>ol</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>
