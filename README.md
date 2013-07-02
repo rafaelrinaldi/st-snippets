@@ -27,4 +27,9 @@ There are snippets available for the following languages:
 * ActionScript 3
 * CSS3 <small>(There are snippets for all the new properties of CSS3, already implementing vendor prefixes. [css3please.com](http://css3please.com) was used as a reference.)</small>
 * HTML
-* JavaScript <small>(Snippets for working with AMD, RequireJS, Jasmine, console, etc.)</small>
+* JavaScript <small>(Snippets for working with [AMD][amd], [RequireJS][rjs], [Jasmine][jasmine], console, etc.)</small>
+
+
+[amd]: https://github.com/amdjs/amdjs-api/wiki/AMD
+[rjs]: https://github.com/jrburke/requirejs
+[jasmine]: https://github.com/pivotal/jasmine
