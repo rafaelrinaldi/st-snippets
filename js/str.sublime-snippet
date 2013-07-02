@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[var ${1:string} = '$2';]]></content>
+
+    <description>JavaScript string</description>
+
+    <tabTrigger>str</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

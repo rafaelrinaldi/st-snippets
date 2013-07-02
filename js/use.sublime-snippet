@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA['use strict';]]></content>
 
-    <description>use strict</description>
+    <description>JavaScript use strict</description>
 
-    <tabTrigger>stri</tabTrigger>
+    <tabTrigger>use</tabTrigger>
     
     <scope>source.js</scope>
 </snippet>
