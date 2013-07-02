@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[define({$1});]]></content>
+
+    <description>AMD define object</description>
+
+    <tabTrigger>def</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

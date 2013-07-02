@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[define(function() {
+
+	function ${1:name}() {
+		$2
+	}
+
+	return ${1:name};
+
+});]]></content>
+
+    <description>AMD define function</description>
+
+    <tabTrigger>def</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>
