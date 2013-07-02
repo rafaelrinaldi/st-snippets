@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[jasmine.createSpy(${1:'$2'});]]></content>
+
+    <description>Jasmine createSpy</description>
+
+    <tabTrigger>spy</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

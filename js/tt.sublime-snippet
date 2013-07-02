@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[toThrow();]]></content>
+
+    <description>Jasmine toThrow</description>
+
+    <tabTrigger>tt</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

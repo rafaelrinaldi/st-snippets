@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[toBeFalsy();]]></content>
+
+    <description>Jasmine toBeFalsy</description>
+
+    <tabTrigger>tbf</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

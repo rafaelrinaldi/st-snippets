@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[toBeCloseTo(${1:a}, ${2:b});]]></content>
+
+    <description>Jasmine toBeCloseTo</description>
+
+    <tabTrigger>tbc</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

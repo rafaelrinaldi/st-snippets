@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[it('$1', function() {
+	$2
+});]]></content>
+
+    <description>Jasmine it</description>
+
+    <tabTrigger>it</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

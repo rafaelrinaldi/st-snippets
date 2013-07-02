@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[toBeGreaterThan();]]></content>
+
+    <description>Jasmine toBeGreaterThan</description>
+
+    <tabTrigger>tbg</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

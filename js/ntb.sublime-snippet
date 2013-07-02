@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toBe($1);]]></content>
+
+    <description>Jasmine not.toBe</description>
+
+    <tabTrigger>ntb</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

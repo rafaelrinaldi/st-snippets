@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toBeNull();]]></content>
+
+    <description>Jasmine not.toBeNull</description>
+
+    <tabTrigger>ntbn</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

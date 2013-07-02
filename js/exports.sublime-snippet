@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[exports]]></content>
+
+    <description>AMD exports</description>
+
+    <tabTrigger>exp</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toContain('$1');]]></content>
+
+    <description>Jasmine not.toContain</description>
+
+    <tabTrigger>ntc</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[waitsFor(function() {
+	return $1
+}${2:, '${3:Failure message}', ${4:10}});]]></content>
+
+    <description>Jasmine waitsFor</description>
+
+    <tabTrigger>waits</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

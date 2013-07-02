@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[jasmine.any($1);]]></content>
+
+    <description>Jasmine any</description>
+
+    <tabTrigger>any</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[toBe($1);]]></content>
+
+    <description>Jasmine toBe</description>
+
+    <tabTrigger>tb</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

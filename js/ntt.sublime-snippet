@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toThrow();]]></content>
+
+    <description>Jasmine not.toThrow</description>
+
+    <tabTrigger>ntt</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

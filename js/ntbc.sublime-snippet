@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toBeCloseTo(${1:a}, ${2:b});]]></content>
+
+    <description>Jasmine not.toBeCloseTo</description>
+
+    <tabTrigger>ntbc</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

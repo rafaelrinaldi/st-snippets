@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toBeDefined();]]></content>
+
+    <description>Jasmine not.toBeDefined</description>
+
+    <tabTrigger>ntbd</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

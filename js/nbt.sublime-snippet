@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toBeTruthy();]]></content>
+
+    <description>Jasmine not.toBeTruthy</description>
+
+    <tabTrigger>ntbt</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

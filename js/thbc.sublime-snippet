@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[toHaveBeenCalled();]]></content>
+
+    <description>Jasmine toHaveBeenCalled</description>
+
+    <tabTrigger>thbc</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

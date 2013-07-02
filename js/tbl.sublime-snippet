@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[toBeLessThan();]]></content>
+
+    <description>Jasmine toBeLessThan</description>
+
+    <tabTrigger>tbl</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

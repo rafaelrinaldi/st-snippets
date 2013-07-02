@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toHaveBeenCalled();]]></content>
+
+    <description>Jasmine not.toHaveBeenCalled</description>
+
+    <tabTrigger>nthbc</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

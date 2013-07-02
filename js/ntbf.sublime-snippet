@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toBeFalsy();]]></content>
+
+    <description>Jasmine not.toBeFalsy</description>
+
+    <tabTrigger>ntbf</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

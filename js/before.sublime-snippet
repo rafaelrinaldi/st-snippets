@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[beforeEach(function() {
+	$1
+});]]></content>
+
+    <description>Jasmine beforeEach</description>
+
+    <tabTrigger>before</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

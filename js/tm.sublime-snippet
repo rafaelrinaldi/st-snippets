@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[toMatch(/$1/$2);]]></content>
+
+    <description>Jasmine toMatch</description>
+
+    <tabTrigger>tm</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

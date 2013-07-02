@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[afterEach(function() {
+	$1
+});]]></content>
+
+    <description>Jasmine afterEach</description>
+
+    <tabTrigger>after</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

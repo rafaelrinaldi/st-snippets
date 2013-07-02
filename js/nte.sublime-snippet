@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[not.toEqual($1);]]></content>
+
+    <description>Jasmine not.toEqual</description>
+
+    <tabTrigger>nte</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>
