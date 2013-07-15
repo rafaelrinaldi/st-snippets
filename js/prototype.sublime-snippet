@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[var ${1:p} = ${2:name}.prototype;]]></content>
+
+    <description>reference prototype to variable</description>
+
+    <tabTrigger>pr</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

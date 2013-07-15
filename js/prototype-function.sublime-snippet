@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[p.${1:name} = function($2) {
+    $3
+};]]></content>
+
+    <description>prototype function</description>
+
+    <tabTrigger>pfn</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

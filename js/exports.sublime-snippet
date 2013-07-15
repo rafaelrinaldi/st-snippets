@@ -3,7 +3,7 @@
 
     <description>AMD exports</description>
 
-    <tabTrigger>exp</tabTrigger>
+    <tabTrigger>ex</tabTrigger>
     
     <scope>source.js</scope>
 </snippet>
