@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+console.warn(${2:'$1'});
+]]></content>
+
+	<description>console.warn()</description>
+
+    <tabTrigger>warn</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>

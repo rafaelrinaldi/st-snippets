@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+console.trace(${2:'$1'});
+]]></content>
+
+	<description>console.trace()</description>
+
+    <tabTrigger>trace</tabTrigger>
+    
+    <scope>source.js</scope>
+</snippet>
