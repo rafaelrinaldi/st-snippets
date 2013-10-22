@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[afterEach(function() {
-	$1
+  $1
 });]]></content>
 
     <description>Jasmine afterEach</description>

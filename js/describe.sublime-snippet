@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[describe('$1', function() {
-	$2
+  $2
 });]]></content>
 
     <description>Jasmine describe</description>

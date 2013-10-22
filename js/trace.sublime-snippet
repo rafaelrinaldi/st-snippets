@@ -3,7 +3,7 @@
 console.trace(${2:'$1'});
 ]]></content>
 
-	<description>console.trace()</description>
+  <description>console.trace()</description>
 
     <tabTrigger>trace</tabTrigger>
     

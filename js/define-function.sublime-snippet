@@ -1,11 +1,11 @@
 <snippet>
     <content><![CDATA[define(function() {
 
-	function ${1:name}() {
-		$2
-	}
+  function ${1:name}() {
+    $2
+  }
 
-	return ${1:name};
+  return ${1:name};
 
 });]]></content>
 

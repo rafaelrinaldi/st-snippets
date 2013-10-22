@@ -3,7 +3,7 @@
 console.log(${2:'$1'});
 ]]></content>
 
-	<description>console.log()</description>
+  <description>console.log()</description>
 
     <tabTrigger>log</tabTrigger>
     

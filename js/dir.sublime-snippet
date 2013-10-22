@@ -3,7 +3,7 @@
 console.dir($1);
 ]]></content>
 
-	<description>console.dir()</description>
+  <description>console.dir()</description>
 
     <tabTrigger>dir</tabTrigger>
     

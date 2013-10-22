@@ -3,7 +3,7 @@
 console.error(${2:'$1'});
 ]]></content>
 
-	<description>console.error()</description>
+  <description>console.error()</description>
 
     <tabTrigger>error</tabTrigger>
     
