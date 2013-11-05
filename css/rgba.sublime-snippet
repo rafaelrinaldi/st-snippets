@@ -1,9 +1,0 @@
-<snippet>
-
-	<content><![CDATA[rgba(${1:red}, ${2:green}, ${3:blue}, ${4:alpha});]]></content>
-	
-	<tabTrigger>rgba</tabTrigger>
-	
-	<scope>source.css, source.less, source.scss, source.stylus</scope>
-	
-</snippet>
