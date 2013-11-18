@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+/* $1
+   ========================================================================== */
+]]></content>
+
+  <description>Simple banner</description>
+
+  <tabTrigger>//=</tabTrigger>
+
+</snippet>
