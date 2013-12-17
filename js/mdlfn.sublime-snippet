@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+${1:MyModule}.fn.${2:myFunction} = function($3) {
+  $4
+};
+]]></content>
+
+  <description>module function</description>
+
+    <tabTrigger>mdlfn</tabTrigger>
+
+    <scope>source.js</scope>
+</snippet>

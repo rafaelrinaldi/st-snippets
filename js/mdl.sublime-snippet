@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+Module('${1:MyModule}', function($1) {
+
+  $1.fn.initialize = function($2) {
+    $3
+  };
+
+});
+]]></content>
+
+  <description>new module</description>
+
+    <tabTrigger>mdl</tabTrigger>
+
+    <scope>source.js</scope>
+</snippet>
