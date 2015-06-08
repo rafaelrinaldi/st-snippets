@@ -4,9 +4,7 @@ List of snippets I have made for working with Sublime Text.
 
 ## Note
 
-```
-I've switched to Vim and no longer use Sublime Text anymore. With that being said I'm no longer going to improve or maintain this repository in any way. The only reason I'm leaving this here is because I know some people use it. Feel free to fork the repository to do whatever you want.
-```
+**I've switched to Vim and no longer use Sublime Text anymore. With that being said I'm no longer going to improve or maintain this repository in any way. The only reason I'm leaving this here is because I know some people use it. Feel free to fork the repository to do whatever you want.**
 
 ## Installation
 
