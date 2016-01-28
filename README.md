@@ -1,10 +1,9 @@
+> # Deprecation notice :rotating_light:
+> [I've switched to Vim](https://github.com/rafaelrinaldi/vimfiles) and don't use Sublime Text anymore. With that being said I'm no longer going to improve nor maintain this repository. Feel free to fork it and do whatever you want.
+
 # st-snippets
 
 List of snippets I have made for working with Sublime Text.
-
-## Note
-
-**I've switched to Vim and don't use Sublime Text anymore. With that being said I'm no longer going to improve nor maintain this repository in any way. The only reason I'm leaving this here is because I know some people use it. Feel free to fork the repository to do whatever you want.**
 
 ## Installation
 
